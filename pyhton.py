@@ -1,2 +1,2 @@
 print("muheehheheheheh")
-print("my name is ABD")
+print("my name is ABD and I am dumb")
